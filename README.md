@@ -46,3 +46,5 @@ OSINT в Одноклассниках — это мощный инструмен
 Вся информация представлена «как есть» исключительно для повышения уровня цифровой грамотности и понимания угроз приватности.
 
 [Вернуться к каталогу OSINT-инструментов](https://github.com/OSINT-searcher/probiv_i_OSINT_instrumenti)
+
+[Открыть статью как отдельную страницу](https://osint-searcher.github.io/OSINT_i_probiv_Odnoklassniki/)
